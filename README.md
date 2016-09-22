@@ -1,2 +1,3 @@
 # hello-world
-Damp for things to study
+Dump for things to study
+trying to figure out how these magic boxes actually work
